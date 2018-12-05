@@ -22,7 +22,7 @@ class Clock extends Component {
   // Runs after the component has completely rendered onto the application.
   // We will call getTimeUntil() every second in order to continue updating
   // our timer, using setInterval(() => getTimeUntil(this.props.deadline), 1000) 
-  // with an annonymous arrow function.
+  // with an annonymous arrow function
   componentDidMount() {
     setInterval(() => this.getTimeUntil(this.props.deadline), 1000)
   }
