@@ -1,2 +1,0 @@
-# CountdownChamp
-Created with CodeSandbox
