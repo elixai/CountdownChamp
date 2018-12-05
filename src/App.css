@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20%;
+}
+
+.App .App__title {
+  font-size: 15px;
+}
+
+.App .App__title span {
+  display: block;
+  font-size: 45px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.App .App__time {
+  display: inline;
+  margin: 10px;
+}
