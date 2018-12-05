@@ -19,3 +19,12 @@
   display: inline;
   margin: 10px;
 }
+
+.App form input {
+  max-width: 50%;
+  min-width: 40%;
+}
+
+.App form input.form-control {
+  display: initial;
+}
